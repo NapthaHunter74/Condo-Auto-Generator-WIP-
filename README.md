@@ -1,5 +1,5 @@
 
-Automatic Condo Gen!
+Automatic Condo Generator!
 
 **WARNING, THIS FILE IS STILL A W.I.P**
 
